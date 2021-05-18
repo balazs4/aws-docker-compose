@@ -1,5 +1,4 @@
-# aws-ecs :heart: docker-compose :whale:
-
+# :sun_behind_large_cloud: aws :heart: docker-compose :whale:
 > the true lift-and-shit approach
 
 ## setup
