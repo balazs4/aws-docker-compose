@@ -41,3 +41,8 @@ docker compose logs
 # remove AWS resources 📉
 docker compose down
 ```
+
+## refs
+
+- https://www.youtube.com/watch?v=AVLwI_yZDVs
+- https://docs.docker.com/cloud/ecs-integration/
